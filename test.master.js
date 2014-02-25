@@ -25,5 +25,9 @@
 
 (function(){
 	var a = 1;
-	window.a = a;
+	var b = 2;
+	window.o = {
+		a : a,
+		b: b
+	} ;
 })();
