@@ -23,6 +23,7 @@
  */
 
 (function(){
+	var sss = 3;
 	var x = 1;
 	var y = 2;
 	window.o = {
