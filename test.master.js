@@ -24,8 +24,8 @@
 
 
 (function(){
-	var a = 1;
-	var b = 2;
+	var a = 2;
+	var b = 6;
 	window.o = {
 		a : a,
 		b: b
