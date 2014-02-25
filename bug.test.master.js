@@ -22,12 +22,12 @@
  *  @class FileName
  */
 
-
 (function(){
-	var a = 2;
-	var b = 6;
+	var sss = 3;
+	var x = 1;
+	var y = 2;
 	window.o = {
-		a : a,
-		b: b
+		a : y,
+		b: x
 	} ;
 })();

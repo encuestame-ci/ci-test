@@ -20,14 +20,6 @@
  *  @module ModuleName
  *  @namespace Widget
  *  @class FileName
- */
 
 
-(function(){
-	var a = 2;
-	var b = 6;
-	window.o = {
-		a : a,
-		b: b
-	} ;
-})();
+ var a = 100000;
